@@ -18,7 +18,8 @@ python snakegame.py
 ![game over](https://user-images.githubusercontent.com/62142963/82178239-2bf55b00-98f9-11ea-9af9-f2974a9fab94.png)
 
 ### Highscore
-![highscore](https://user-images.githubusercontent.com/62142963/82178263-36aff000-98f9-11ea-9a51-edb668e411b3.png)
+![WhatsApp Image 2020-05-17 at 6 42 03 PM](https://user-images.githubusercontent.com/62142963/82179444-f9992d00-98fb-11ea-81b2-838170323fd6.jpeg)
+
 
 ### Instructions
 ![instructions](https://user-images.githubusercontent.com/62142963/82178290-43ccdf00-98f9-11ea-995b-1e9354c6a12b.png)
