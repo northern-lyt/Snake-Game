@@ -4,4 +4,5 @@ Game developed in python using pygame module.
 install pygame module using: 
 ```
 pip install pygame
+python snakegame.py
 ```
