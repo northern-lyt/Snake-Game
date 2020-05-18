@@ -8,7 +8,7 @@ pip install pygame
 python snakegame.py
 ```
 ## Screenshots
-######Welcome screen\
+###Welcome screen\
 ![welcome](https://user-images.githubusercontent.com/62142963/82178188-0b2d0580-98f9-11ea-9267-3e54ed81be75.png)
 
 Game Screen\
